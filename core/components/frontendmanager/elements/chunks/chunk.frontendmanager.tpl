@@ -8,5 +8,13 @@
 		<a href="{'manager_url' | config}?a=system/settings" data-action="iframe"><span class="fm-icon-settings"></span> <span class="fm-link-text">{'frontendmanager_btn_settings' | lexicon}</span></a>
 		<a href="{'manager_url' | config}?a=system/event" data-action="iframe"><span class="fm-icon-log"></span><span class="fm-link-text">{'frontendmanager_btn_log' | lexicon}</span></a>
 		<a href="{'manager_url' | config}?a=system/refresh_site" data-action="iframe"><span class="fm-icon-cache"></span><span class="fm-link-text">{'frontendmanager_btn_cache' | lexicon}</span></a>
+
+		<!-- метрика -->	
+		<!-- аналитика -->
+		https://analytics.google.com/analytics/web/?authuser=0#/p404017295/reports/reportinghub
+		<!-- GSC -->
+		<!-- Вебмастер -->
+		<!-- Индекс Яндекс -->
+		<!-- Индекс Гугл -->
 	</div>
 </div>
