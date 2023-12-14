@@ -20,6 +20,10 @@
 	box-sizing: border-box;
 }
 
+body.fm:not(.fm-hide) {
+    padding-top: 45.5px;
+}
+
 .fm-panel {
 	display: none;
 	flex-direction: row;
